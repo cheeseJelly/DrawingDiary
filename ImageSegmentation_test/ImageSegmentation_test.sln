@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImageSegmentation_test", "ImageSegmentation_test\ImageSegmentation_test.vcxproj", "{AB8C0754-A5C7-4677-AE26-E1CA7FB1DE62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB8C0754-A5C7-4677-AE26-E1CA7FB1DE62}.Debug|x64.ActiveCfg = Debug|x64
+		{AB8C0754-A5C7-4677-AE26-E1CA7FB1DE62}.Debug|x64.Build.0 = Debug|x64
+		{AB8C0754-A5C7-4677-AE26-E1CA7FB1DE62}.Debug|x86.ActiveCfg = Debug|Win32
+		{AB8C0754-A5C7-4677-AE26-E1CA7FB1DE62}.Debug|x86.Build.0 = Debug|Win32
+		{AB8C0754-A5C7-4677-AE26-E1CA7FB1DE62}.Release|x64.ActiveCfg = Release|x64
+		{AB8C0754-A5C7-4677-AE26-E1CA7FB1DE62}.Release|x64.Build.0 = Release|x64
+		{AB8C0754-A5C7-4677-AE26-E1CA7FB1DE62}.Release|x86.ActiveCfg = Release|Win32
+		{AB8C0754-A5C7-4677-AE26-E1CA7FB1DE62}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEF738CD-D809-4A39-BC7E-1AA4C174716D}
+	EndGlobalSection
+EndGlobal

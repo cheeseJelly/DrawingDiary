@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\jiwon\documents\visual studio 2017\projects\seperatesection\seperatesection\main.cpp(48): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jiwon\documents\visual studio 2017\projects\seperatesection\seperatesection\main.cpp(49): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jiwon\documents\visual studio 2017\projects\seperatesection\seperatesection\main.cpp(53): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jiwon\documents\visual studio 2017\projects\seperatesection\seperatesection\main.cpp(54): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SeperateSection.vcxproj -> C:\Users\jiwon\Documents\Visual Studio 2017\Projects\SeperateSection\x64\Debug\SeperateSection.exe
+  SeperateSection.vcxproj -> C:\Users\jiwon\Documents\Visual Studio 2017\Projects\SeperateSection\x64\Debug\SeperateSection.pdb (Partial PDB)
